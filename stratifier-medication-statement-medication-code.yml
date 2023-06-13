@@ -1,0 +1,8 @@
+library: stratifier-medication-statement-medication-code.cql
+group:
+- type: MedicationStatement
+  population:
+  - expression: InInitialPopulation
+  stratifier:
+  - code: medication-code
+    expression: MedicationCode

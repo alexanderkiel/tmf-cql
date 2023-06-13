@@ -1,0 +1,5 @@
+library: schaedelfraktur.cql
+group:
+- type: Patient
+  population:
+  - expression: InInitialPopulation
