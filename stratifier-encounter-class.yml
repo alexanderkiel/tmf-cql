@@ -1,0 +1,8 @@
+library: stratifier-encounter-class.cql
+group:
+- type: Encounter
+  population:
+  - expression: InInitialPopulation
+  stratifier:
+  - code: class
+    expression: Class

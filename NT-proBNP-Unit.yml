@@ -1,0 +1,8 @@
+library: NT-proBNP-Unit.cql
+group:
+- type: Observation
+  population:
+  - expression: "NT-proBNP Observations"
+  stratifier:
+  - code: unit
+    expression: Unit

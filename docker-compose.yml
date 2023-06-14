@@ -1,0 +1,14 @@
+services:
+  blaze:
+    image: "samply/blaze:0.21"
+    environment:
+      BASE_URL: "http://localhost:8080"
+      JAVA_TOOL_OPTIONS: "-Xmx2g"
+      ENFORCE_REFERENTIAL_INTEGRITY: "false"
+      LOG_LEVEL: "debug"
+    ports:
+    - "8080:8080"
+    volumes:
+    - "blaze-data:/app/data"
+volumes:
+  blaze-data:

@@ -1,0 +1,262 @@
+"text","system","code","count"
+"ALAT","http://loinc.org","1742-6",19
+"ALT","http://loinc.org","76625-3",22
+"ALT (GPT)","http://loinc.org","76625-3",6
+"ALT (GPT)","http://loinc.org","1742-6",9
+"ALT (GPT)","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"ALT (GPT) <50","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"ALT /GPT","http://loinc.org","76625-3",14
+"AP","http://loinc.org","6768-6",19
+"ASAT","http://loinc.org","1920-8",19
+"AST (GOT)","http://loinc.org","1920-8",100
+"AST (GOT) <50","http://loinc.org","1920-8",2
+"AST / GOT","http://loinc.org","1920-8",8
+"Alanin-Aminotransferase","http://loinc.org","76625-3",16
+"Albumin","http://loinc.org","54347-0",4
+"Albumin","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"Albumin (Serum)","http://loinc.org","54347-0",4
+"Albumin - Heparinplasma","http://loinc.org","1751-7",3
+"Albumin 34-50","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Albumin/Protein.total","http://loinc.org","54347-0",5
+"Alkalische Phosphatase","http://loinc.org","1783-0",12
+"Alpha 2 globulin/Protein.total","http://loinc.org","13981-6",8
+"Alpha-1-Globulin/Protein.total","http://loinc.org","13978-2",8
+"Anorganisches Phosphat","http://loinc.org","24519-1",2
+"Anteil mikrozytärer Erys","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Antithrombin(III)","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Aspartat-Aminotransferase","http://loinc.org","1920-8",15
+"BMI","http://loinc.org","39156-5",17
+"BNP","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",1
+"Basophile","http://loinc.org","28543-7",66
+"Basophile","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Basophile absolut","http://loinc.org","30180-4",10
+"Beta-Globulin/Protein.total","http://loinc.org","13982-4",8
+"Bilirubin","http://loinc.org","54363-7",13
+"Bilirubin direkt","http://loinc.org","14629-0",2
+"Bilirubin direkt","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"Bilirubin direkt < 0,3","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Bilirubin gesamt","http://loinc.org","54363-7",69
+"Bilirubin gesamt 0,3-1,2","http://loinc.org","54363-7",2
+"Blutdruck DIA","http://loinc.org","8462-4",175
+"Blutdruck DIA","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",38
+"Blutdruck SYS","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",38
+"Blutdruck SYS","http://loinc.org","8480-6",175
+"Blutglucose","http://loinc.org","15074-8",6
+"Blutglucose","http://loinc.org","2345-7",46
+"C-Reaktives Protein","http://loinc.org","76485-2",38
+"C-reaktives Protein","http://loinc.org","76485-2",19
+"CK Gesamt","http://loinc.org","2157-6",5
+"CK Gesamt","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"CK Gesamt <171","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"CK MB","http://loinc.org","32673-6",65
+"CK-MB-Masse","http://loinc.org","13969-1",1
+"CRP","http://loinc.org","76485-2",94
+"CRP","http://loinc.org","14634-0",4
+"CRP <5","http://loinc.org","76485-2",2
+"Calcium","http://loinc.org","1994-3",14
+"Calcium","http://loinc.org","1996-8",17
+"Calcium","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"Calcium - Heparinplasma","http://loinc.org","2000-8",3
+"Calcium 2,08-2,65","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Chlesterol in HDL","http://loinc.org","14646-4",1
+"Chlorid","http://loinc.org","2069-3",35
+"Chlorid - Heparinplasma","http://loinc.org","2069-3",16
+"Cholesterin","http://loinc.org","14647-2",6
+"Cholesterol","http://loinc.org","14647-2",10
+"Cholesterol in LDL","http://loinc.org","22748-8",1
+"Cholesterol.in HDL","http://loinc.org","14646-4",3
+"Cholesterol.in LDL","http://loinc.org","22748-8",4
+"CrCl","http://loinc.org","35591-7",3
+"CrCl","http://loinc.org","33558-8",3
+"Creatininkinase","http://loinc.org","32673-6",5
+"D-Dimere","http://loinc.org","48065-7",1
+"D-Dimere","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"D-Dimere 0,21-0,52","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Digoxin","http://loinc.org","10535-3",1
+"Dyspnoe","http://loinc.org","82950-7",1
+"EVB","http://loinc.org","30385-9",63
+"EVB 11,5-14,5","http://loinc.org","30385-9",2
+"Eisen","http://loinc.org","14798-3",5
+"Eiweiß, ges. - Heparinplasma","http://loinc.org","2885-2",3
+"Eosinophile","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Eosinophile","http://loinc.org","26452-3",66
+"Eosinophile absolut","http://loinc.org","26450-7",10
+"Ery. Verteilungsbreite","http://loinc.org","30385-9",2
+"Erythrozyten","http://loinc.org","26453-1",150
+"Erythrozyten (TR)","http://loinc.org","26453-1",12
+"Erythrozyten - EDTA-Blut","http://loinc.org","26453-1",2
+"Erythrozyten -EDTA-Blut","http://loinc.org","26453-1",17
+"Erythrozyten 4,5-5,9","http://loinc.org","26453-1",2
+"Erythrozytenverteilung","http://loinc.org","30384-2",4
+"Erythrozytenverteilungsbreite","http://loinc.org","30385-9",2
+"Extrasystolen","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",1
+"FEV1","http://loinc.org","20150-9",1
+"Ferritin","http://loinc.org","14723-1",1
+"Fibrinogen (Clauss)","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Fibrinogen (abgeleitet)","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"Fibrinogen (abgeleitet) 1,9-3,7","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Fibrinogen nach Clauss, Fbg","http://loinc.org","3255-7",1
+"GFR","http://loinc.org","70969-1",2
+"GFR","http://loinc.org","98979-8",3
+"GFR CKD-Epi - Heparinplasma","http://loinc.org","62238-1",19
+"GGT","http://loinc.org","2324-2",72
+"Gamma-GT","http://loinc.org","2324-2",6
+"Gamma-Glutamyl-Transferase","http://loinc.org","2324-2",11
+"Gammaglobulin/Protein.total","http://loinc.org","13983-2",8
+"Gentamicin-Talspiegel","http://loinc.org","3665-7",3
+"Gesamt-Eiweiß","http://loinc.org","2885-2",1
+"Gesamt-Eiweiß (Serum)","http://loinc.org","2885-2",3
+"Gesamtcholesterin","http://loinc.org","2093-3",6
+"Gesamteiweiß","http://loinc.org","2885-2",7
+"Gewicht","http://loinc.org","3142-7",33
+"Glucose","http://loinc.org","15074-8",23
+"Glukose","http://loinc.org","15074-8",10
+"Gonadotropin peptide","http://loinc.org","10336-6",4
+"Granulozyten absolut","http://loinc.org","30395-8",10
+"Große Thrombozyten, PLCR","http://loinc.org","48386-7",4
+"HCO3","http://loinc.org","1960-4",8
+"HDL-Cholesterin","http://loinc.org","2085-9",6
+"Harnstoff","http://loinc.org","72903-8",34
+"Harnstoff - Heparinplasma","http://loinc.org","22664-7",19
+"Harnstoff-N","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"Harnstoff-N 9,0-23","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Harnsäure","http://loinc.org","14933-6",17
+"Harnsäure - Heparinplasma","http://loinc.org","14933-6",3
+"HbA1C","http://loinc.org","4548-4",2
+"HbA1C (HPLC)","http://loinc.org","4548-4",6
+"HbA1c","http://loinc.org","4548-4",4
+"Hemoglobin A1c/Hemoglobin.total","http://loinc.org","4548-4",1
+"Hämatokrit","http://loinc.org","20570-8",175
+"Hämatokrit - EDTA-Blut","http://loinc.org","20570-8",19
+"Hämatokrit 36-48","http://loinc.org","20570-8",2
+"Hämoglobin","http://loinc.org","59260-0",193
+"Hämoglobin - EDTA-Blut","http://loinc.org","718-7",19
+"Hämoglobin 14-17,5","http://loinc.org","59260-0",2
+"Hämoglobin A1c/Hämoglobin.total","http://loinc.org","4548-4",2
+"INR","http://loinc.org","34714-6",50
+"INR","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"INR - Citrat-Plasma","http://loinc.org","34714-6",19
+"Kalium","http://loinc.org","6298-4",207
+"Kalium - Heparinplasma","http://loinc.org","2823-3",19
+"Kalium 3,5-4,5","http://loinc.org","6298-4",2
+"Kreatinin","http://loinc.org","59826-8",186
+"Kreatinin - Heparinplasma","http://loinc.org","14682-9",19
+"Kreatinin 0,7-1,3","http://loinc.org","59826-8",2
+"Kreatinkinase","http://loinc.org","32673-6",3
+"Körpergewicht","http://loinc.org","3142-7",46
+"Körpergrösse","http://loinc.org","8302-2",2
+"Körpergröße","http://loinc.org","8302-2",37
+"Körpertemperatur","http://loinc.org","8310-5",177
+"Körpertemperatur","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",21
+"Körpertemperatur","http://loinc.org","8310-8",1
+"Körpertemperatur","http://loinc.org","8310-6",1
+"Körpertemperatur","http://loinc.org","8310-7",1
+"LDH","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"LDH","http://loinc.org","2529-6",4
+"LDH","http://loinc.org","2532-0",26
+"LDH 120-246","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"LDL-Cholesterin","http://loinc.org","2089-1",6
+"Lactat","http://loinc.org","2518-9",24
+"Laktatdehydrogenase","http://loinc.org","2537-9",7
+"Leukozyten","http://loinc.org","26464-8",191
+"Leukozyten - EDTA-Blut","http://loinc.org","26464-8",19
+"Leukozyten 3,8-11","http://loinc.org","26464-8",2
+"Leukozyten im Urin","http://loinc.org","58805-3",1
+"Lipase","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",60
+"Lipase","http://loinc.org","3040-3",14
+"Lipase 12-53","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",1
+"Lithium","http://loinc.org","14334-7",9
+"Lymphozyten","http://loinc.org","26478-8",22
+"Lymphozyten","http://loinc.org","13046-8",7
+"Lymphozyten","http://loinc.org","11031-2",66
+"Lymphozyten","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Lymphozyten absolut","http://loinc.org","26478-8",10
+"MCH","http://loinc.org","28539-5",129
+"MCH - EDTA-Blut","http://loinc.org","28539-5",19
+"MCH 26-34","http://loinc.org","28539-5",2
+"MCHC","http://loinc.org","59467-1",77
+"MCHC - EDTA-Blut","http://loinc.org","59467-1",19
+"MCHC 31-37","http://loinc.org","59467-1",2
+"MCV","http://loinc.org","30428-7",129
+"MCV - EDTA-Blut","http://loinc.org","30428-7",19
+"MCV 80-94","http://loinc.org","30428-7",2
+"MPV - EDTA-Blut","http://loinc.org","28542-9",19
+"Magnesium","http://loinc.org","2593-2",66
+"Magnesium 0,66-1,07","http://loinc.org","2593-2",2
+"Mittl. Thrombozytenvolumen, MPV","http://loinc.org","28542-9",2
+"Mittlere zelluläre Hämoglobinkonzentration eines Erythrozyten","http://loinc.org","59467-1",23
+"Mittleres Thrombozytenvolumen","http://loinc.org","28542-9",1
+"Mittleres Thrombozytenvolumen, MPV","http://loinc.org","28542-9",2
+"Mittleres Zellvolumen","http://loinc.org","30428-7",25
+"Mittleres zelluläres Hämoglobin","http://loinc.org","28539-5",24
+"Monozyten","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Monozyten","http://loinc.org","26486-1",66
+"Monozyten absolut","http://loinc.org","26485-3",10
+"Myoglobin","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Myoglobin","http://loinc.org","2639-3",10
+"NT-proBNP SerPl-mCnc","http://loinc.org","33762-6",128
+"Natrium","http://loinc.org","2947-0",202
+"Natrium - Heparinplasma","http://loinc.org","2947-0",19
+"Neutrophile","http://loinc.org","26508-2",6
+"Neutrophile","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Neutrophile","http://loinc.org","26511-6",66
+"Normoblasten - EDTA-Blut","http://loinc.org","33990-3",2
+"Normoblasten -EDTA-Blut","http://loinc.org","33990-3",17
+"PSA","http://loinc.org","2857-1",3
+"PTT","http://loinc.org","3173-2",6
+"Procalcitonin","http://loinc.org","33959-8",65
+"Procalcitonin -0,5","http://loinc.org","33959-8",2
+"Puls","http://loinc.org","8867-4",124
+"Puls","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",14
+"QT-Zeit (EKG)","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",3
+"QT-Zeit (EKG), korrigiert nach Friederica","http://loinc.org","8636-3",4
+"Quick","http://loinc.org","5894-1",2
+"Quick","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",73
+"Quick","http://loinc.org","6471-9",4
+"Quick 84-129","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Sauerstoffsättigung","http://loinc.org","2713-6",4
+"TPZ n.Quick -Citrat-Plasma","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",19
+"TSH","http://loinc.org","3015-5",1
+"TSH","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"TSH 0,55-4,78","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Thrombinzeit","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"Thrombinzeit <19","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Thromboplastinzeit als INR","http://loinc.org","34714-6",2
+"Thromboplastinzeit als Quickwert","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"Thrombozyten","http://loinc.org","26515-7",192
+"Thrombozyten - EDTA-Blut","http://loinc.org","26515-7",19
+"Thrombozyten 150-400","http://loinc.org","26515-7",2
+"Thrombozytenverteilung, THRV","http://loinc.org","32207-3",2
+"Transferrin","http://loinc.org","3034-6",2
+"Tremor","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",1
+"Triacylglycerid-Lipase","http://loinc.org","3040-3",1
+"Triglycerid","http://loinc.org","70218-3",5
+"Triglyceride","http://loinc.org","14927-8",3
+"Triglyceride","http://loinc.org","70218-3",99
+"Triglyceride >150","http://loinc.org","70218-3",2
+"Trombozytenverteilung","http://loinc.org","32207-3",2
+"Troponin","http://loinc.org","42757-5",4
+"Troponin I","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"Troponin T","http://loinc.org","67151-1",10
+"Unreife Granulozyten, IG","http://loinc.org","38518-7",2
+"Vollblutspiegel Ciclosporin","http://loinc.org","15103-5",2
+"a-Amylase","http://loinc.org","76630-3",6
+"aPTT","http://loinc.org","3173-2",2
+"aPTT","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",63
+"aPTT","http://loinc.org","52767-1",28
+"aPTT - Citrat-Plasma","http://loinc.org","3173-2",19
+"aPTT 23-30","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",2
+"anorganisches Phosphor 0.78-1,65","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"cardiales Troponin T","http://loinc.org","6598-7",3
+"eGFR","http://loinc.org","76633-7",1
+"eGFR (CKD-EPI)","http://loinc.org","62238-1",28
+"eGFR (MDRD)","http://loinc.org","76633-7",3
+"eGFR (MDRD-Formel)","http://loinc.org","77147-7",2
+"fT3","http://loinc.org","14928-6",1
+"fT4","http://loinc.org","14920-3",1
+"pCO2","http://loinc.org","2019-8",8
+"pH (Blut)","http://loinc.org","2744-1",28
+"pH-Wert","http://loinc.org","2744-1",8
+"pO2","http://loinc.org","2703-7",8
+"proBNP","http://terminology.hl7.org/CodeSystem/data-absent-reason","unknown",65
+"yGT","http://loinc.org","2324-2",19
