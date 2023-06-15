@@ -14,6 +14,8 @@ define "Enoxaparin Ref":
 context Patient
 
 define InInitialPopulation:
-  exists
+  exists "Enoxaparin MedicationStatements"
+
+define "Enoxaparin MedicationStatements":
     from [MedicationStatement] M
     where (M.medication as Reference).reference = "Enoxaparin Ref"

@@ -8,5 +8,8 @@ code "Kalium": '6298-4' from loinc
 context Patient
 
 define InInitialPopulation:
-  exists [Observation: "Kalium"] O
+  exists "Kalium zwischen 2 mmol/L und 5 mmol/L"
+
+define "Kalium zwischen 2 mmol/L und 5 mmol/L":
+  from [Observation: "Kalium"] O
   where O.value between 2 'mmol/L' and 5 'mmol/L'
