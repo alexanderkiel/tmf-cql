@@ -2,6 +2,10 @@
 
 ## Start
 
+### Install Blazectl
+
+https://github.com/samply/blazectl
+
 ### Öffentlicher Server
 
 ```sh
