@@ -300,6 +300,42 @@ blazectl --server "$BASE" --user polar --password "$PASSWORD" evaluate-measure k
 43
 ```
 
+## Kalium mit min. Zwei Werten
+
+Wir wollen Patienten finden, die min. zwei Kalium Laborwerte haben.
+
+### CQL Library
+
+```cql
+library "kalium"
+using FHIR version '4.0.0'
+include FHIRHelpers version '4.0.0'
+
+codesystem loinc: 'http://loinc.org'
+code "Kalium": '6298-4' from loinc
+
+context Patient
+
+define InInitialPopulation:
+  Length("Kalium zwischen 2 mmol/L und 5 mmol/L") > 1 
+  
+define "Kalium zwischen 2 mmol/L und 5 mmol/L":  
+  from [Observation: "Kalium"] O
+  where O.value between 2 'mmol/L' and 5 'mmol/L'
+```
+
+### Ausführung
+
+```sh
+blazectl --server "$BASE" --user polar --password "$PASSWORD" evaluate-measure kalium-two-values.yml | jq -rf count.jq
+```
+
+### Ergebnis
+
+```text
+36
+```
+
 ## Medication Enoxaparin
 
 ### CQL Library

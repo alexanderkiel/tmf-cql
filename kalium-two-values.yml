@@ -1,0 +1,5 @@
+library: kalium-two-values.cql
+group:
+- type: Patient
+  population:
+  - expression: InInitialPopulation
