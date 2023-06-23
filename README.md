@@ -411,13 +411,13 @@ blazectl --server "$BASE" --user polar --password "$PASSWORD" evaluate-measure s
 ### Laboratory Codes
 
 ```sh
-blazectl --server "$BASE" --user polar --password "$PASSWORD" evaluate-measure stratifier-lab-code.yml | jq -rf stratifier-lab-code.jq
+blazectl --server "$BASE" --user polar --password "$PASSWORD" evaluate-measure stratifier-lab-code.yml | jq -rf stratifier-code.jq
 ```
 
 ### Procedure Codes
 
 ```sh
-blazectl --server "$BASE" --user polar --password "$PASSWORD" evaluate-measure stratifier-procedure-code.yml | jq -rf stratifier-procedure-code.jq
+blazectl --server "$BASE" --user polar --password "$PASSWORD" evaluate-measure stratifier-procedure-code.yml | jq -rf stratifier-code.jq
 ```
 
 ### Medication ATC Codes
