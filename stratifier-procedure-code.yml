@@ -1,0 +1,8 @@
+library: stratifier-procedure-code.cql
+group:
+- type: Procedure
+  population:
+  - expression: InInitialPopulation
+  stratifier:
+  - code: code
+    expression: Code
